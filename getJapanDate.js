@@ -1,3 +1,8 @@
+/**
+ * 和暦取得
+ * @param {Date} date 日付
+ * @return {String} 和暦の日付
+ */
 function getJapanDate(date) {
   const reiwaYear = 2019;
   const reiwaMonth = 5;
